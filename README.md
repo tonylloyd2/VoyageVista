@@ -1,7 +1,6 @@
 # VoyageVista
 
-```markdown
-# 
+ 
 
 This project is a Trip Agency Management System designed to help travel agencies manage their trip offerings and bookings efficiently. It includes a user-facing interface for browsing and booking trips and an administrative interface for managing listings, tracking bookings, and generating reports.
 
